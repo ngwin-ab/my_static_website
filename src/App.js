@@ -10,7 +10,7 @@ function App() {
             <a href="index.html" className="logo">ABN</a>
             <ul>
               <li><a href="index.html" className="active">HOME</a></li>
-              <li><a href="numberGuessingGame.html">GAME</a></li>
+              <li><a href="index.html">GAME</a></li>
             </ul>
             {/* <div className="logBtn">Login</div> */}
           </nav>
