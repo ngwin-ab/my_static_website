@@ -24,7 +24,7 @@ function App() {
           {/* <div className="fb_Btn">Contact</div> */}
         </div>
 
-        <div className="right-div"><img src={img} alt="Girl working on laptop" width={400} height={400}/></div>
+        <div className="right-div"><img src={img} alt="Girl working on laptop" width={500} height={500}/></div>
 
         <footer>
           <div className="social-icons">
